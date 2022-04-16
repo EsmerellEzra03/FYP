@@ -2,4 +2,4 @@
 
 Latihan Github
 
-Hello, welcome to GitHub !
+Hello !
